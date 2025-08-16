@@ -92,20 +92,20 @@ SW_NOMBRE# write
 # Capturas de VPC
 
 ![VPC1](https://github.com/seb4sr/Redes1_2S_2025_202010298/blob/main/Images/vpc1.png)
-![VPC2](URL_DE_LA_IMAGEN)
-![VPC3](URL_DE_LA_IMAGEN)
-![VPC4](URL_DE_LA_IMAGEN)
-![VPC5](URL_DE_LA_IMAGEN)
-![VPC6](URL_DE_LA_IMAGEN)
-![VPC7](URL_DE_LA_IMAGEN)
-![VPC8](URL_DE_LA_IMAGEN)
-![VPC9](URL_DE_LA_IMAGEN)
-![VPC10](URL_DE_LA_IMAGEN)
+![VPC2](https://github.com/seb4sr/Redes1_2S_2025_202010298/blob/main/Images/vpc2.png)
+![VPC3](https://github.com/seb4sr/Redes1_2S_2025_202010298/blob/main/Images/vpc3.png)
+![VPC4](https://github.com/seb4sr/Redes1_2S_2025_202010298/blob/main/Images/vpc4.png)
+![VPC5](https://github.com/seb4sr/Redes1_2S_2025_202010298/blob/main/Images/vpc5.png)
+![VPC6](https://github.com/seb4sr/Redes1_2S_2025_202010298/blob/main/Images/vpc6.png)
+![VPC7](https://github.com/seb4sr/Redes1_2S_2025_202010298/blob/main/Images/vpc7.png)
+![VPC8](https://github.com/seb4sr/Redes1_2S_2025_202010298/blob/main/Images/vp8.png)
+![VPC9](https://github.com/seb4sr/Redes1_2S_2025_202010298/blob/main/Images/vpc9.png)
+![VPC10](https://github.com/seb4sr/Redes1_2S_2025_202010298/blob/main/Images/vpc10.png)
 
 
 # Capturas de paquetes ARP y ICMP
 
-![ARP](URL_DE_LA_IMAGEN)
-![ICMP](URL_DE_LA_IMAGEN)
+![ARP](https://github.com/seb4sr/Redes1_2S_2025_202010298/blob/main/Images/armipc1.png)
+![ICMP](https://github.com/seb4sr/Redes1_2S_2025_202010298/blob/main/Images/armipc2.png)
 
 
