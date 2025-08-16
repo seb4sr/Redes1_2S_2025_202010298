@@ -102,6 +102,20 @@ SW_NOMBRE# write
 ![VPC9](https://github.com/seb4sr/Redes1_2S_2025_202010298/blob/main/Images/vpc9.png)
 ![VPC10](https://github.com/seb4sr/Redes1_2S_2025_202010298/blob/main/Images/vpc10.png)
 
+# Capturas de VPC
+
+![PING1](https://github.com/seb4sr/Redes1_2S_2025_202010298/blob/main/Images/ping1.png)
+![PING2](https://github.com/seb4sr/Redes1_2S_2025_202010298/blob/main/Images/ping2.png)
+![PING3](https://github.com/seb4sr/Redes1_2S_2025_202010298/blob/main/Images/ping3.png)
+![PING4](https://github.com/seb4sr/Redes1_2S_2025_202010298/blob/main/Images/ping4.png)
+![PING5](https://github.com/seb4sr/Redes1_2S_2025_202010298/blob/main/Images/ping5.png)
+![PING6](https://github.com/seb4sr/Redes1_2S_2025_202010298/blob/main/Images/ping6.png)
+![PING7](https://github.com/seb4sr/Redes1_2S_2025_202010298/blob/main/Images/ping7.png)
+![PING8](https://github.com/seb4sr/Redes1_2S_2025_202010298/blob/main/Images/ping8.png)
+![PING9](https://github.com/seb4sr/Redes1_2S_2025_202010298/blob/main/Images/ping9.png)
+![PING10](https://github.com/seb4sr/Redes1_2S_2025_202010298/blob/main/Images/ping10.png)
+
+
 
 # Capturas de paquetes ARP y ICMP
 
