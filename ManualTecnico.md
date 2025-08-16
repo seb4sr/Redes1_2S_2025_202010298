@@ -105,7 +105,7 @@ SW_NOMBRE# write
 
 # Capturas de paquetes ARP y ICMP
 
-![ARP](https://github.com/seb4sr/Redes1_2S_2025_202010298/blob/main/Images/armipc1.png)
-![ICMP](https://github.com/seb4sr/Redes1_2S_2025_202010298/blob/main/Images/armipc2.png)
+![ARP](https://github.com/seb4sr/Redes1_2S_2025_202010298/blob/main/Images/armicp1.png)
+![ICMP](https://github.com/seb4sr/Redes1_2S_2025_202010298/blob/main/Images/armicp2.png)
 
 
