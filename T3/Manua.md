@@ -120,6 +120,7 @@ interface fa0/13
  no shutdown
 end
 wr
+```
 
 ### 3.4 Switch `cliente2` (VTP **cliente2** + creación de VLANs)
 ```plaintext
@@ -158,7 +159,7 @@ interface fa0/13
  no shutdown
 end
 wr
-
+```
 ## 4. Verificación
 
 
@@ -166,6 +167,7 @@ wr
 En cada switch
 ```plaintext
 show vtp status
+```
 https://github.com/seb4sr/Redes1_2S_2025_202010298/blob/main/T3/images/server2.png
 https://github.com/seb4sr/Redes1_2S_2025_202010298/blob/main/T3/images/trans2.png
 https://github.com/seb4sr/Redes1_2S_2025_202010298/blob/main/T3/images/c12.png
