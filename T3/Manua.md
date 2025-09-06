@@ -179,3 +179,25 @@ show vtp status
 
 **Cliente 2**  
 ![Cliente2](https://github.com/seb4sr/Redes1_2S_2025_202010298/blob/main/T3/images/c22.png)
+
+### 4.2 Vlans Localtes
+En cada switch
+```plaintext
+show vlan brief
+```
+**Server**  
+![Server](https://github.com/seb4sr/Redes1_2S_2025_202010298/blob/main/T3/images/server1.png)
+
+**Transparente**  
+![Transparente](https://github.com/seb4sr/Redes1_2S_2025_202010298/blob/main/T3/images/trans1.png)
+
+**Cliente 1**  
+![Cliente1](https://github.com/seb4sr/Redes1_2S_2025_202010298/blob/main/T3/images/c11.png)
+
+**Cliente 2**  
+![Cliente2](https://github.com/seb4sr/Redes1_2S_2025_202010298/blob/main/T3/images/c21.png)
+
+### 4.3 Pruebas de Conectividad
+
+**Pings Realizados**  
+![Conectividad](https://github.com/seb4sr/Redes1_2S_2025_202010298/blob/main/T3/images/compronaciones.png)
