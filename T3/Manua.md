@@ -12,7 +12,7 @@
 ## 1. Topología
 
 **Diagrama de la topología (enlace entre switches y puertos):**  
-![Topología general](<-- pega_la_URL_aquí --> "Captura: Topología")
+![Topología general](https://github.com/seb4sr/Redes1_2S_2025_202010298/blob/main/T3/images/topo.png "Captura: Topología")
 
 **Detalle de enlaces entre switches (FastEthernet):**
 - `servidor` **Fa0/1** ↔ `transparente` **Fa0/1**
