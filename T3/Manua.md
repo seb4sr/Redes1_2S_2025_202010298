@@ -200,4 +200,4 @@ show vlan brief
 ### 4.3 Pruebas de Conectividad
 
 **Pings Realizados**  
-![Conectividad](https://github.com/seb4sr/Redes1_2S_2025_202010298/blob/main/T3/images/compronaciones.png)
+![Conectividad](https://github.com/seb4sr/Redes1_2S_2025_202010298/blob/main/T3/images/comprobaciones.png)
