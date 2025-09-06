@@ -168,7 +168,14 @@ En cada switch
 ```plaintext
 show vtp status
 ```
-https://github.com/seb4sr/Redes1_2S_2025_202010298/blob/main/T3/images/server2.png
-https://github.com/seb4sr/Redes1_2S_2025_202010298/blob/main/T3/images/trans2.png
-https://github.com/seb4sr/Redes1_2S_2025_202010298/blob/main/T3/images/c12.png
-https://github.com/seb4sr/Redes1_2S_2025_202010298/blob/main/T3/images/c22.png
+**Server**  
+![Topología general](https://github.com/seb4sr/Redes1_2S_2025_202010298/blob/main/T3/images/server2.png)
+**Transparente**  
+
+![Topología general](https://github.com/seb4sr/Redes1_2S_2025_202010298/blob/main/T3/images/trans2.png)
+**Cliente 1**  
+
+![Topología general](https://github.com/seb4sr/Redes1_2S_2025_202010298/blob/main/T3/images/c12.png)
+**Cliente 2**  
+
+![Topología general](https://github.com/seb4sr/Redes1_2S_2025_202010298/blob/main/T3/images/c22.png)
